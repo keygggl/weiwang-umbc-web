@@ -2,8 +2,7 @@
 title: Wei Wang
 role: Research Assistant @ UMBC
 avatar_filename: avatar.jpg
-bio: My research interests include Internet of Things, Wireless Networking,
-  Cybersecurity and Autonomous Driving.
+bio: ""
 interests:
   - Internet of Things
   - Wireless Networking
