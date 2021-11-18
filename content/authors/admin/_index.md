@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ax29092@umbc.edu
+    link: '<a href=mailto: ax29092@umbc.edu?">'
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=ttiMonwAAAAJ&hl=zh-CN
