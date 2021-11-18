@@ -37,4 +37,6 @@ Before joining UMBC, I received my M.S. degree from [University of Texas at Dall
 
 My research interests include Internet of Things (IoT), Wireless Networking, Cybersecurity, and Autonomous Driving. I am also interested in some cool topics, such as wireless sensing techniques, drones, and robotics. 
 
-**Email:** ax29092@umbc.edu        [ ](https://scholar.google.com/citations?user=ttiMonwAAAAJ&hl=zh-CN)                                                               [**Google Scholar** ](https://scholar.google.com/citations?user=ttiMonwAAAAJ&hl=zh-CN)
+**Email:** ax29092@umbc.edu 
+
+[**Google Scholar** ](https://scholar.google.com/citations?user=ttiMonwAAAAJ&hl=zh-CN)
