@@ -2,7 +2,7 @@
 widget: featured
 widget_id: Selected Publications
 headless: true
-weight: 30
+weight: 60
 title: Selected Publications
 subtitle: ""
 content:
