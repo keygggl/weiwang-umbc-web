@@ -1,6 +1,6 @@
 ---
 widget: Misc.
-widget_id: my-widget-123
+widget_id: "  Misc"
 headless: true
 weight: 10
 active: true
