@@ -9,10 +9,7 @@ interests:
   - Wireless Networking
   - Cybersecurity
   - Autonomous Driving
-social:
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=ttiMonwAAAAJ&hl=zh-CN
+social: []
 organizations:
   - name: University of Maryland, Baltimore County
     url: https://www.umbc.edu
