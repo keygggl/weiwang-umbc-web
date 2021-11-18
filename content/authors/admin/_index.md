@@ -33,7 +33,7 @@ highlight_name: true
 ---
 My name is Wei Wang. I am a Ph.D. student in the [Department of Computer Science and Electrical Engineering](https://coeit.umbc.edu/csee-dept/) at [University of Maryland, Baltimore County (UMBC)](https://www.umbc.edu/). My advisor is Prof. [Ting Zhu](https://www.csee.umbc.edu/~zt/). 
 
-Before joining UMBC, I received my M.S. degree from [University of Texas at Dallas (Utdallas)](https://www.utdallas.edu/) in 2014. I received my B.S. degree from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/) in 2012. 
+Before joining UMBC, I received my M.S. degree from [University of Texas at Dallas (Utdallas)](https://www.utdallas.edu/) in 2014. I received my B.S. degree from [](https://english.bupt.edu.cn/)[Beijing University of Posts and Telecommunications (BUPT)](https://english.bupt.edu.cn/) in 2012. 
 
 My research interests include Internet of Things (IoT), Wireless Networking, Cybersecurity, and Autonomous Driving. I am also interested in some cool topics, such as wireless sensing techniques, drones, and robotics. 
 
