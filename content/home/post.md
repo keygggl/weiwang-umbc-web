@@ -1,6 +1,6 @@
 ---
-widget: post
-widget_id: post
+widget: posts
+widget_id: posts
 headless: true
 weight: 130
 title: Misc.
