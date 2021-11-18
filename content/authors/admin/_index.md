@@ -2,28 +2,20 @@
 title: Wei Wang
 role: Research Assistant @ UMBC
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Internet of Things, Wireless Networking,
+  Cybersecurity and Autonomous Driving.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Internet of Things
+  - Wireless Networking
+  - Cybersecurity
+  - Autonomous Driving
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: ax29092@umbc.edu
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://scholar.google.com/citations?user=ttiMonwAAAAJ&hl=zh-CN
 organizations:
   - name: University of Maryland, Baltimore County
     url: https://www.umbc.edu
